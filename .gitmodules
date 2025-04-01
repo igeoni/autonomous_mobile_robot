@@ -1,0 +1,9 @@
+[submodule "sllidar_ros2"]
+	path = sllidar_ros2
+	url = https://github.com/Slamtec/sllidar_ros2.git
+[submodule "tracer_ros2"]
+	path = tracer_ros2
+	url = https://github.com/agilexrobotics/tracer_ros2.git
+[submodule "ugv_sdk"]
+	path = ugv_sdk
+	url = https://github.com/westonrobot/ugv_sdk.git
