@@ -27,7 +27,7 @@ This repository provides a ROS 2 (Humble) package for autonomous navigation on t
 **Clone this repository into your ROS 2 workspace**
    ```bash
    cd ~/ros2_ws/src
-   git clone --recursive https://github.com/igeoni/<YOUR_REPOSITORY>.git
+   git clone https://github.com/igeoni/autonomous_mobile_robot.git
    git submodule update --init --recursive
 
    cd ~/ros2_ws
