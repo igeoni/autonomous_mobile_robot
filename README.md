@@ -34,7 +34,7 @@ This repository provides a ROS 2 (Humble) package for autonomous navigation on t
    rosdep install --from-paths src --ignore-src -r -y
 
    colcon build --symlink-install
-    source install/setup.bash
+   source install/setup.bash
 
 
 
