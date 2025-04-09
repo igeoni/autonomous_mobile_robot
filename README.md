@@ -2,6 +2,7 @@
 
 ## Description
 This repository provides a ROS 2 (Humble) package for autonomous navigation on the **Tracer Mini** mobile robot. It integrates **Cartographer** for mapping and **Navigation2** for path planning, allowing the robot to build a map of its environment and navigate to specified waypoints.
+![image](https://github.com/user-attachments/assets/b396cb08-2732-4f77-b278-88389f739383)
 
 ---
 
