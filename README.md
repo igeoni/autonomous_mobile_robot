@@ -28,6 +28,7 @@ This repository provides a ROS 2 (Humble) package for autonomous navigation on t
    ```bash
    cd ~/ros2_ws/src
    git clone https://github.com/igeoni/autonomous_mobile_robot.git
+   cd autonomous_mobile_robot
    git submodule update --init --recursive
 
    cd ~/ros2_ws
@@ -36,6 +37,3 @@ This repository provides a ROS 2 (Humble) package for autonomous navigation on t
 
    colcon build --symlink-install
    source install/setup.bash
-
-
-
